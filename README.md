@@ -5,8 +5,8 @@
 - I will be pushing my learning progress according to **weekly tasks** 📅📚.
 
 ## Table Of Contents
-- [Week-1](week-1)
-- [Week-2](week-2)
+- [Week-1](#week-1-%EF%B8%8F)
+- [Week-2](#week-2-%EF%B8%8F)
 
 ## Week 1 🗓️
 1. **Version Control (Git)** 🔧
