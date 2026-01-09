@@ -26,7 +26,7 @@
      python -m venv venv
      ````
      (or `uv venv` using [uv](https://docs.astral.sh/uv/getting-started/installation/))
-   - Activated using:
+   - Activated using(for Windows Poweshell):
      ````bash
      .\venv\Scripts\Activate.ps1
      ````
